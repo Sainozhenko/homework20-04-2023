@@ -1,5 +1,5 @@
 package homework_tommorow;
 
-public interface StringConcate {
+public interface StringConcat {
     String concat(int a,int b);
 }
